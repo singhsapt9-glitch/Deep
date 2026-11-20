@@ -1,6 +1,6 @@
 # Deep Repository
 
-ਮੈਂ ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਵਿੱਚ ਆਪਣੀ ਪਾਈਥਨ (Python) ਦੀ ਪ੍ਰੈਕਟਿਸ ਅਤੇ ਕੋਡ ਸੇਵ ਕਰ ਰਿਹਾ ਹਾਂ।
+
 
 ## About Me
 * Learning Python and Machine Learning
